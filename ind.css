@@ -1,0 +1,48 @@
+/* Page background */
+body {
+  margin: 0;
+  background-color: #00539f;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Center everything */
+.page {
+  display: flex;
+  justify-content: center;
+  padding: 40px 0;
+}
+
+/* Orange card */
+.card {
+  background-color: orange;
+  width: 600px;
+  padding: 30px;
+  border: 5px solid black;
+}
+
+/* Heading */
+h1 {
+  margin-top: 0;
+  text-align: center;
+  font-size: 48px;
+  color: #00539f;
+  text-shadow: 3px 3px 1px black;
+}
+
+/* Image */
+img {
+  display: block;
+  margin: 0 auto 20px auto;
+  width: 300px;
+}
+
+/* Text */
+p, li {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+/* Link */
+a {
+  color: #00539f;
+}
